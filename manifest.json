@@ -1,0 +1,10 @@
+{
+  "name": "AnimeShelf",
+  "short_name": "AnimeShelf",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d0915",
+  "theme_color": "#120d1f",
+  "lang": "ru",
+  "icons": []
+}
